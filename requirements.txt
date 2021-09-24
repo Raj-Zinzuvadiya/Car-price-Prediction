@@ -1,6 +1,6 @@
-pandas as pd
-seaborn as sns
-numpy as np
+pandas 
+seaborn
+numpy 
 maplotlib
 sklearn
 flask
