@@ -2,7 +2,8 @@ Flask
 gunicorn
 itsdangerous
 Jinja2
-Markzeug
+MarkupSafe
+Werkzeug
 numpy
 scipy
 scikit-learn
